@@ -36,7 +36,6 @@ export default function Home() {
             Register
           </Button>
         </>
-        )
 
         <ProTip />
         <Copyright />
